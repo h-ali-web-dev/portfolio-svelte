@@ -1,3 +1,7 @@
+<script>
+  import aws from "../assets/aws.svg";
+</script>
+
 <section class="text-gray-600 body-font">
   <div class="container px-5 py-24 mx-auto">
     <div class="text-center mb-20">
@@ -47,6 +51,7 @@
           </p>
           <a class="mt-3 text-purple-500 inline-flex items-center"
             >Learn More
+            <img src={aws} alt="" srcset="" />
             <svg
               fill="none"
               stroke="currentColor"
