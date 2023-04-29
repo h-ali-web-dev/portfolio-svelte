@@ -1,3 +1,7 @@
+<script>
+  import partner from "../assets/partner.jpg";
+</script>
+
 <section class="text-gray-600 body-font">
   <div class="container px-5 py-24 mx-auto flex flex-wrap">
     <div
@@ -5,37 +9,42 @@
     >
       <div class="w-full sm:p-4 px-4 mb-6">
         <h1 class="title-font font-medium text-xl mb-2 text-gray-900">
-          Moon hashtag pop-up try-hard offal truffaut
+          Grow Your Business using Cloud Technology!
         </h1>
         <div class="leading-relaxed">
-          Pour-over craft beer pug drinking vinegar live-edge gastropub, keytar
-          neutra sustainable fingerstache kickstarter.
+          Cheap Serverless Cloud Infrastructure allows you to build applications
+          for all users with flexible payment plans and services.
         </div>
       </div>
       <div class="p-4 sm:w-1/2 lg:w-1/4 w-1/2">
-        <h2 class="title-font font-medium text-3xl text-gray-900">2.7K</h2>
-        <p class="leading-relaxed">Users</p>
+        <h2 class="title-font font-medium text-xl text-gray-900">Flexible</h2>
+        <p class="leading-relaxed">Virtual Machines</p>
       </div>
       <div class="p-4 sm:w-1/2 lg:w-1/4 w-1/2">
-        <h2 class="title-font font-medium text-3xl text-gray-900">1.8K</h2>
-        <p class="leading-relaxed">Subscribes</p>
+        <h2 class="title-font font-medium text-xl text-gray-900">
+          Low-Latency
+        </h2>
+        <p class="leading-relaxed">Edge Functions</p>
       </div>
       <div class="p-4 sm:w-1/2 lg:w-1/4 w-1/2">
-        <h2 class="title-font font-medium text-3xl text-gray-900">35</h2>
-        <p class="leading-relaxed">Downloads</p>
+        <h2 class="title-font font-medium text-xl text-gray-900">
+          SQL & noSQL
+        </h2>
+        <p class="leading-relaxed">Databases</p>
       </div>
       <div class="p-4 sm:w-1/2 lg:w-1/4 w-1/2">
-        <h2 class="title-font font-medium text-3xl text-gray-900">4</h2>
-        <p class="leading-relaxed">Products</p>
+        <h2 class="title-font font-medium text-xl text-gray-900">
+          Business Intelligence
+        </h2>
+        <p class="leading-relaxed">Analytics</p>
       </div>
     </div>
     <div
       class="lg:w-1/2 sm:w-1/3 w-full rounded-lg overflow-hidden mt-6 sm:mt-0"
     >
       <img
-        class="object-cover object-center w-full h-full"
-        src="https://dummyimage.com/600x300"
-        alt="stats"
+        class="object-cover object-center w-full h-full p-28"
+        src={partner}
       />
     </div>
   </div>
