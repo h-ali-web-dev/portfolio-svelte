@@ -5,7 +5,7 @@
   import arrow from "../assets/arrow.svg";
 </script>
 
-<section class="text-gray-600 body-font">
+<section class="text-gray-600 body-font" id="cloud">
   <div class="container px-5 py-24 mx-auto">
     <div class="text-center mb-20">
       <h1
@@ -95,9 +95,10 @@
         </div>
       </div>
     </div>
-    <button
-      class="flex mx-auto mt-16 text-white bg-purple-500 border-0 py-2 px-8 focus:outline-none hover:bg-purple-600 rounded text-lg"
-      >Certifications</button
+    <a
+      href="#certifications"
+      class="flex mx-auto w-44 mt-16 text-white bg-purple-500 border-0 py-2 px-8 focus:outline-none hover:bg-purple-600 rounded text-lg"
+      >Certifications</a
     >
   </div>
 </section>

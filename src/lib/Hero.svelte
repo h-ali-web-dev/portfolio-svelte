@@ -28,13 +28,15 @@
         cloud native applications with focus on cost savings and scalibility.
       </p>
       <div class="flex justify-center">
-        <button
+        <a
+          href="#cloud"
           class="inline-flex text-white bg-purple-500 border-0 py-2 px-6 focus:outline-none hover:bg-purple-600 rounded text-lg"
-          >See Cloud Providers</button
+          >See Cloud Providers</a
         >
-        <button
+        <a
+          href="#certifications"
           class="ml-4 inline-flex text-gray-700 bg-gray-100 border-0 py-2 px-6 focus:outline-none hover:bg-gray-200 rounded text-lg"
-          >See My Certifications</button
+          >See My Certifications</a
         >
       </div>
     </div>

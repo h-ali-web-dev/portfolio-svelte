@@ -3,7 +3,7 @@
   import linkedin from "../assets/linkedin.svg";
 </script>
 
-<section class="text-gray-600 body-font">
+<section class="text-gray-600 body-font" id="certifications">
   <div class="container px-5 py-24 mx-auto">
     <div class="text-center mb-20">
       <h1

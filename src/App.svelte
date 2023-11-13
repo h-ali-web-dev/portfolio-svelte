@@ -5,6 +5,8 @@
   import FeatureDetails from "./lib/FeatureDetails.svelte";
   import Footer from "./lib/Footer.svelte";
   import Statistic from "./lib/Statistic.svelte";
+  import FrontEnd from "./lib/Frontend.svelte";
+  import BackEnd from "./lib/Backend.svelte";
 </script>
 
 <main>
@@ -14,6 +16,8 @@
     <Feature />
     <FeatureDetails />
     <Statistic />
+    <FrontEnd />
+    <BackEnd />
     <Footer />
   </div>
 </main>

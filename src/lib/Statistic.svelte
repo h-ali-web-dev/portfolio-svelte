@@ -18,7 +18,7 @@
       </div>
       <div class="p-4 sm:w-1/2 lg:w-1/4 w-1/2">
         <h2 class="title-font font-medium text-xl text-gray-900">Flexible</h2>
-        <p class="leading-relaxed">Virtual Machines</p>
+        <p class="leading-relaxed">Deployment Services</p>
       </div>
       <div class="p-4 sm:w-1/2 lg:w-1/4 w-1/2">
         <h2 class="title-font font-medium text-xl text-gray-900">
